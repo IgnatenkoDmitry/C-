@@ -1,0 +1,110 @@
+C:\Users\asrorov\Downloads\obj1\bin\Debug\WpfApp1.exe.config
+C:\Users\asrorov\Downloads\obj1\bin\Debug\WpfApp1.exe
+C:\Users\asrorov\Downloads\obj1\bin\Debug\WpfApp1.pdb
+C:\Users\asrorov\Downloads\obj1\bin\Debug\RoomLibrary.dll
+C:\Users\asrorov\Downloads\obj1\bin\Debug\RoomLibrary.pdb
+C:\Users\asrorov\Downloads\obj1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\asrorov\Downloads\obj1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\asrorov\Downloads\obj1\obj\Debug\MainWindow.g.cs
+C:\Users\asrorov\Downloads\obj1\obj\Debug\App.g.cs
+C:\Users\asrorov\Downloads\obj1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\asrorov\Downloads\obj1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\asrorov\Downloads\obj1\obj\Debug\MainWindow.baml
+C:\Users\asrorov\Downloads\obj1\obj\Debug\WpfApp1.g.resources
+C:\Users\asrorov\Downloads\obj1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\asrorov\Downloads\obj1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\asrorov\Downloads\obj1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\asrorov\Downloads\obj1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\asrorov\Downloads\obj1\obj\Debug\WpfApp1.exe
+C:\Users\asrorov\Downloads\obj1\obj\Debug\WpfApp1.pdb
+C:\Users\asrorov\Downloads\laba5\obj1\bin\Debug\WpfApp1.exe.config
+C:\Users\asrorov\Downloads\laba5\obj1\bin\Debug\WpfApp1.exe
+C:\Users\asrorov\Downloads\laba5\obj1\bin\Debug\WpfApp1.pdb
+C:\Users\asrorov\Downloads\laba5\obj1\bin\Debug\RoomLibrary.pdb
+C:\Users\asrorov\Downloads\laba5\obj1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\asrorov\Downloads\laba5\obj1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\asrorov\Downloads\laba5\obj1\obj\Debug\MainWindow.g.cs
+C:\Users\asrorov\Downloads\laba5\obj1\obj\Debug\App.g.cs
+C:\Users\asrorov\Downloads\laba5\obj1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\asrorov\Downloads\laba5\obj1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\asrorov\Downloads\laba5\obj1\obj\Debug\MainWindow.baml
+C:\Users\asrorov\Downloads\laba5\obj1\obj\Debug\WpfApp1.g.resources
+C:\Users\asrorov\Downloads\laba5\obj1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\asrorov\Downloads\laba5\obj1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\asrorov\Downloads\laba5\obj1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\asrorov\Downloads\laba5\obj1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\asrorov\Downloads\laba5\obj1\obj\Debug\WpfApp1.exe
+C:\Users\asrorov\Downloads\laba5\obj1\obj\Debug\WpfApp1.pdb
+C:\Users\asrorov\Downloads\laba5\obj1\bin\Debug\RoomLibrary.dll
+C:\Users\122\Desktop\laba5\obj1\bin\Debug\WpfApp1.exe.config
+C:\Users\122\Desktop\laba5\obj1\bin\Debug\WpfApp1.exe
+C:\Users\122\Desktop\laba5\obj1\bin\Debug\WpfApp1.pdb
+C:\Users\122\Desktop\laba5\obj1\bin\Debug\RoomLibrary.pdb
+C:\Users\122\Desktop\laba5\obj1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\122\Desktop\laba5\obj1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\122\Desktop\laba5\obj1\obj\Debug\MainWindow.g.cs
+C:\Users\122\Desktop\laba5\obj1\obj\Debug\App.g.cs
+C:\Users\122\Desktop\laba5\obj1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\122\Desktop\laba5\obj1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\122\Desktop\laba5\obj1\obj\Debug\MainWindow.baml
+C:\Users\122\Desktop\laba5\obj1\obj\Debug\WpfApp1.g.resources
+C:\Users\122\Desktop\laba5\obj1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\122\Desktop\laba5\obj1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\122\Desktop\laba5\obj1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\122\Desktop\laba5\obj1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\122\Desktop\laba5\obj1\obj\Debug\WpfApp1.exe
+C:\Users\122\Desktop\laba5\obj1\obj\Debug\WpfApp1.pdb
+C:\Users\kapit\OneDrive\Рабочий стол\asrorov laba5\bin\Debug\WpfApp1.exe.config
+C:\Users\kapit\OneDrive\Рабочий стол\asrorov laba5\bin\Debug\WpfApp1.exe
+C:\Users\kapit\OneDrive\Рабочий стол\asrorov laba5\bin\Debug\WpfApp1.pdb
+C:\Users\kapit\OneDrive\Рабочий стол\asrorov laba5\bin\Debug\RoomLibrary.pdb
+C:\Users\kapit\OneDrive\Рабочий стол\asrorov laba5\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\kapit\OneDrive\Рабочий стол\asrorov laba5\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\kapit\OneDrive\Рабочий стол\asrorov laba5\obj\Debug\MainWindow.g.cs
+C:\Users\kapit\OneDrive\Рабочий стол\asrorov laba5\obj\Debug\App.g.cs
+C:\Users\kapit\OneDrive\Рабочий стол\asrorov laba5\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\kapit\OneDrive\Рабочий стол\asrorov laba5\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\kapit\OneDrive\Рабочий стол\asrorov laba5\obj\Debug\MainWindow.baml
+C:\Users\kapit\OneDrive\Рабочий стол\asrorov laba5\obj\Debug\WpfApp1.g.resources
+C:\Users\kapit\OneDrive\Рабочий стол\asrorov laba5\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\kapit\OneDrive\Рабочий стол\asrorov laba5\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\kapit\OneDrive\Рабочий стол\asrorov laba5\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\kapit\OneDrive\Рабочий стол\asrorov laba5\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\kapit\OneDrive\Рабочий стол\asrorov laba5\obj\Debug\WpfApp1.exe
+C:\Users\kapit\OneDrive\Рабочий стол\asrorov laba5\obj\Debug\WpfApp1.pdb
+C:\Users\kapit\OneDrive\Рабочий стол\LAB5\bin\Debug\WpfApp1.exe.config
+C:\Users\kapit\OneDrive\Рабочий стол\LAB5\bin\Debug\WpfApp1.exe
+C:\Users\kapit\OneDrive\Рабочий стол\LAB5\bin\Debug\WpfApp1.pdb
+C:\Users\kapit\OneDrive\Рабочий стол\LAB5\bin\Debug\RoomLibrary.pdb
+C:\Users\kapit\OneDrive\Рабочий стол\LAB5\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\kapit\OneDrive\Рабочий стол\LAB5\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\kapit\OneDrive\Рабочий стол\LAB5\obj\Debug\MainWindow.g.cs
+C:\Users\kapit\OneDrive\Рабочий стол\LAB5\obj\Debug\App.g.cs
+C:\Users\kapit\OneDrive\Рабочий стол\LAB5\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\kapit\OneDrive\Рабочий стол\LAB5\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\kapit\OneDrive\Рабочий стол\LAB5\obj\Debug\MainWindow.baml
+C:\Users\kapit\OneDrive\Рабочий стол\LAB5\obj\Debug\WpfApp1.g.resources
+C:\Users\kapit\OneDrive\Рабочий стол\LAB5\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\kapit\OneDrive\Рабочий стол\LAB5\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\kapit\OneDrive\Рабочий стол\LAB5\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\kapit\OneDrive\Рабочий стол\LAB5\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\kapit\OneDrive\Рабочий стол\LAB5\obj\Debug\WpfApp1.exe
+C:\Users\kapit\OneDrive\Рабочий стол\LAB5\obj\Debug\WpfApp1.pdb
+C:\Users\Администратор\Desktop\RoomsIgnatenko1\bin\Debug\WpfApp1.exe.config
+C:\Users\Администратор\Desktop\RoomsIgnatenko1\bin\Debug\WpfApp1.exe
+C:\Users\Администратор\Desktop\RoomsIgnatenko1\bin\Debug\WpfApp1.pdb
+C:\Users\Администратор\Desktop\RoomsIgnatenko1\bin\Debug\RoomLibrary.pdb
+C:\Users\Администратор\Desktop\RoomsIgnatenko1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\RoomsIgnatenko1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Администратор\Desktop\RoomsIgnatenko1\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\Desktop\RoomsIgnatenko1\obj\Debug\App.g.cs
+C:\Users\Администратор\Desktop\RoomsIgnatenko1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Администратор\Desktop\RoomsIgnatenko1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Администратор\Desktop\RoomsIgnatenko1\obj\Debug\MainWindow.baml
+C:\Users\Администратор\Desktop\RoomsIgnatenko1\obj\Debug\WpfApp1.g.resources
+C:\Users\Администратор\Desktop\RoomsIgnatenko1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Администратор\Desktop\RoomsIgnatenko1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Администратор\Desktop\RoomsIgnatenko1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\RoomsIgnatenko1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Администратор\Desktop\RoomsIgnatenko1\obj\Debug\WpfApp1.exe
+C:\Users\Администратор\Desktop\RoomsIgnatenko1\obj\Debug\WpfApp1.pdb

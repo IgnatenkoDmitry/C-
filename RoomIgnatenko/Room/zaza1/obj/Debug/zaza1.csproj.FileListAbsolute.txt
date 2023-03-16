@@ -1,0 +1,55 @@
+C:\Users\student\Desktop\Ik-21\zaza1\zaza1\bin\Debug\zaza1.exe.config
+C:\Users\student\Desktop\Ik-21\zaza1\zaza1\bin\Debug\zaza1.exe
+C:\Users\student\Desktop\Ik-21\zaza1\zaza1\bin\Debug\zaza1.pdb
+C:\Users\student\Desktop\Ik-21\zaza1\zaza1\obj\Debug\zaza1.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Ik-21\zaza1\zaza1\obj\Debug\zaza1.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\Ik-21\zaza1\zaza1\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\Ik-21\zaza1\zaza1\obj\Debug\App.g.cs
+C:\Users\student\Desktop\Ik-21\zaza1\zaza1\obj\Debug\zaza1_MarkupCompile.cache
+C:\Users\student\Desktop\Ik-21\zaza1\zaza1\obj\Debug\zaza1_MarkupCompile.lref
+C:\Users\student\Desktop\Ik-21\zaza1\zaza1\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\Ik-21\zaza1\zaza1\obj\Debug\zaza1.g.resources
+C:\Users\student\Desktop\Ik-21\zaza1\zaza1\obj\Debug\zaza1.Properties.Resources.resources
+C:\Users\student\Desktop\Ik-21\zaza1\zaza1\obj\Debug\zaza1.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Ik-21\zaza1\zaza1\obj\Debug\zaza1.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Ik-21\zaza1\zaza1\obj\Debug\zaza1.exe
+C:\Users\student\Desktop\Ik-21\zaza1\zaza1\obj\Debug\zaza1.pdb
+C:\Users\student\Desktop\Ik-21\zaza1\zaza1\bin\Debug\RoomLibrary.dll
+C:\Users\student\Desktop\Ik-21\zaza1\zaza1\bin\Debug\RoomLibrary.pdb
+C:\Users\student\Desktop\Ik-21\zaza1\zaza1\obj\Debug\zaza1.csproj.CopyComplete
+C:\Users\home\Desktop\C# Xleb\RoomLepihov\Room\zaza1\bin\Debug\zaza1.exe.config
+C:\Users\home\Desktop\C# Xleb\RoomLepihov\Room\zaza1\bin\Debug\zaza1.exe
+C:\Users\home\Desktop\C# Xleb\RoomLepihov\Room\zaza1\bin\Debug\zaza1.pdb
+C:\Users\home\Desktop\C# Xleb\RoomLepihov\Room\zaza1\bin\Debug\RoomLibrary.pdb
+C:\Users\home\Desktop\C# Xleb\RoomLepihov\Room\zaza1\obj\Debug\zaza1.csproj.AssemblyReference.cache
+C:\Users\home\Desktop\C# Xleb\RoomLepihov\Room\zaza1\obj\Debug\zaza1.csproj.SuggestedBindingRedirects.cache
+C:\Users\home\Desktop\C# Xleb\RoomLepihov\Room\zaza1\obj\Debug\MainWindow.g.cs
+C:\Users\home\Desktop\C# Xleb\RoomLepihov\Room\zaza1\obj\Debug\App.g.cs
+C:\Users\home\Desktop\C# Xleb\RoomLepihov\Room\zaza1\obj\Debug\zaza1_MarkupCompile.cache
+C:\Users\home\Desktop\C# Xleb\RoomLepihov\Room\zaza1\obj\Debug\zaza1_MarkupCompile.lref
+C:\Users\home\Desktop\C# Xleb\RoomLepihov\Room\zaza1\obj\Debug\MainWindow.baml
+C:\Users\home\Desktop\C# Xleb\RoomLepihov\Room\zaza1\obj\Debug\zaza1.g.resources
+C:\Users\home\Desktop\C# Xleb\RoomLepihov\Room\zaza1\obj\Debug\zaza1.Properties.Resources.resources
+C:\Users\home\Desktop\C# Xleb\RoomLepihov\Room\zaza1\obj\Debug\zaza1.csproj.GenerateResource.cache
+C:\Users\home\Desktop\C# Xleb\RoomLepihov\Room\zaza1\obj\Debug\zaza1.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\C# Xleb\RoomLepihov\Room\zaza1\obj\Debug\zaza1.csproj.CopyComplete
+C:\Users\home\Desktop\C# Xleb\RoomLepihov\Room\zaza1\obj\Debug\zaza1.exe
+C:\Users\home\Desktop\C# Xleb\RoomLepihov\Room\zaza1\obj\Debug\zaza1.pdb
+C:\Users\Администратор\Desktop\RoomIgnatenko\Room\zaza1\bin\Debug\zaza1.exe.config
+C:\Users\Администратор\Desktop\RoomIgnatenko\Room\zaza1\bin\Debug\zaza1.exe
+C:\Users\Администратор\Desktop\RoomIgnatenko\Room\zaza1\bin\Debug\zaza1.pdb
+C:\Users\Администратор\Desktop\RoomIgnatenko\Room\zaza1\bin\Debug\RoomLibrary.pdb
+C:\Users\Администратор\Desktop\RoomIgnatenko\Room\zaza1\obj\Debug\zaza1.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\RoomIgnatenko\Room\zaza1\obj\Debug\zaza1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Администратор\Desktop\RoomIgnatenko\Room\zaza1\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\Desktop\RoomIgnatenko\Room\zaza1\obj\Debug\App.g.cs
+C:\Users\Администратор\Desktop\RoomIgnatenko\Room\zaza1\obj\Debug\zaza1_MarkupCompile.cache
+C:\Users\Администратор\Desktop\RoomIgnatenko\Room\zaza1\obj\Debug\zaza1_MarkupCompile.lref
+C:\Users\Администратор\Desktop\RoomIgnatenko\Room\zaza1\obj\Debug\MainWindow.baml
+C:\Users\Администратор\Desktop\RoomIgnatenko\Room\zaza1\obj\Debug\zaza1.g.resources
+C:\Users\Администратор\Desktop\RoomIgnatenko\Room\zaza1\obj\Debug\zaza1.Properties.Resources.resources
+C:\Users\Администратор\Desktop\RoomIgnatenko\Room\zaza1\obj\Debug\zaza1.csproj.GenerateResource.cache
+C:\Users\Администратор\Desktop\RoomIgnatenko\Room\zaza1\obj\Debug\zaza1.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\RoomIgnatenko\Room\zaza1\obj\Debug\zaza1.csproj.CopyComplete
+C:\Users\Администратор\Desktop\RoomIgnatenko\Room\zaza1\obj\Debug\zaza1.exe
+C:\Users\Администратор\Desktop\RoomIgnatenko\Room\zaza1\obj\Debug\zaza1.pdb
